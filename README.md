@@ -2,7 +2,7 @@
 
 Lead Engineer & Architect at [Brevo](https://www.brevo.com/), working on AI for [Brevo Conversations](https://www.brevo.com/products/conversations/). Based in Barcelona.
 
-Dropped out of uni. Joined [Getwear](https://www.smashingmagazine.com/2015/11/lessons-learned-shutting-startup/) and reworked their website from scratch, but it didn't last long. Then launched [Chatra](https://chatra.com/) with the same founders – a live chat we built in 5 months with a team of four. Worked my ass off for the success of the product. The product succeeded – Chatra was acquired by Brevo. Now I work at Brevo and make small indie things in my spare time.
+Dropped out of uni. Joined Getwear and reworked their website from scratch, but [it didn't last long](https://www.smashingmagazine.com/2015/11/lessons-learned-shutting-startup/). Then launched [Chatra](https://chatra.com/) with the same founders – a live chat we built in 5 months with a team of four. Worked my ass off for the success of the product. The product succeeded – Chatra was acquired by Brevo. Now I work at Brevo and make small indie things in my spare time.
 
 ## Some old open source of note
 

@@ -20,5 +20,5 @@ Back when browser compatibility was a real job, I made a few things people found
 
 ## Links
 
-- Blog: [grumpy.blog](https://grumpy.blog/en/)
-- LinkedIn: [oleg-korsunskiy](https://www.linkedin.com/in/oleg-korsunskiy/)
+- [Blog](https://grumpy.blog/en/)
+- [LinkedIn](https://www.linkedin.com/in/oleg-korsunskiy/)
